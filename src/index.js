@@ -79,5 +79,5 @@ app.delete('/products', existProduct, (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Porta utilizada http://localhoste:${PORT}`);
+  console.log(`Porta utilizada ${PORT} http://localhost:${PORT}`);
 });
