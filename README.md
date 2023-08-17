@@ -8,3 +8,7 @@
 [x] - deve ser possivel alterar o valor
 [x] - deve ser possivel adicionar fotos e remover fotos
 [x] - deve ser possivel deletar o produto
+
+
+## Install
+`npm i`
